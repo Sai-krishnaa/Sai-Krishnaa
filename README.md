@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Food Website**
+- 🔭 I’m currently working on **ResQ Ambulance Booking System**
 
-- 🌱 I’m currently learning **Bootstrap, PHP, JavaScript**
+- 🌱 I’m currently learning **Tailwindcss, PHP, JavaScript**
 
-- 💬 Ask me about **Bootstrap, CSS, PHP**
+- 💬 Ask me about **Tailwindcss, CSS, PHP,Java,React**
 
 - 📫 How to reach me **saikrishna34326@gmail.com**
 
