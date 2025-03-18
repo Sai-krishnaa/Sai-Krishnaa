@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Krishna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India  ![image](https://github.com/user-attachments/assets/ee1c5e72-5cf4-4545-829a-b2df23d667b8)
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-krishnaa&label=Profile%20views&color=0e75b6&style=flat" alt="sai-krishnaa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
